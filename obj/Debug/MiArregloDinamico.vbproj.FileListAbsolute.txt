@@ -1,0 +1,12 @@
+C:\Users\oswal\source\repos\ArregloFijo\bin\Debug\ArregloFijo.exe.config
+C:\Users\oswal\source\repos\ArregloFijo\bin\Debug\ArregloFijo.exe
+C:\Users\oswal\source\repos\ArregloFijo\bin\Debug\ArregloFijo.pdb
+C:\Users\oswal\source\repos\ArregloFijo\bin\Debug\ArregloFijo.xml
+C:\Users\oswal\source\repos\ArregloFijo\obj\Debug\MiArregloDinamico.vbproj.AssemblyReference.cache
+C:\Users\oswal\source\repos\ArregloFijo\obj\Debug\ArregloFijo.Resources.resources
+C:\Users\oswal\source\repos\ArregloFijo\obj\Debug\MiArregloDinamico.vbproj.GenerateResource.cache
+C:\Users\oswal\source\repos\ArregloFijo\obj\Debug\MiArregloDinamico.vbproj.CoreCompileInputs.cache
+C:\Users\oswal\source\repos\ArregloFijo\obj\Debug\ArregloFijo.exe
+C:\Users\oswal\source\repos\ArregloFijo\obj\Debug\ArregloFijo.xml
+C:\Users\oswal\source\repos\ArregloFijo\obj\Debug\ArregloFijo.pdb
+C:\Users\oswal\source\repos\ArregloFijo\obj\Debug\ArregloFijo.Form1.resources
